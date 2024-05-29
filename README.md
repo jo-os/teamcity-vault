@@ -76,6 +76,7 @@ Teamcity + Vault
     Vault Query: my/testing/secret/pass/main-secret!/my-password
 ```
 
+------------------------------------------------------------------
 
 **Мониторинг Vault**
 
